@@ -22,7 +22,7 @@ linkedin_username: carterhaid
 
 # About Section
 about_title: About Me
-about_profile_image: images/jg2.jpg
+about_profile_image: images/profile.jpg
 about_content: |
   Hi, my name is Carter Haid, I'm an Information Security Engineer currently working for Northeast Bank.
 
@@ -46,15 +46,15 @@ content:
     layout: text
     content: | # this will include new lines to allow paragraphs
       Security Certifications: 
-        - CompTIA CYSA+
-        - Cisco CCNA
+        - <mark>CompTIA CYSA+</mark>
+        - <mark>Cisco CCNA</mark>
 
       Vulnerability Management Certifications:
-        - Rapid7 InsightVM Certified Administrator
-        - Rapid7 InsightIDR Certified Specialist
+        - <mark>Rapid7 InsightVM Certified Administrator</mark>
+        - <mark>Rapid7 InsightIDR Certified Specialist</mark>
 
       Cloud Certifications:
-        - AWS CCP
+        - <mark>AWS CCP</mark>
         
   - title: Experience
     layout: list
@@ -85,24 +85,24 @@ content:
 
       - layout: left
         border: weak
-        title: Information Security Intern
-        sub_title: Tyler Technologies
+        title: Tyler Technologies
+        sub_title: Information Security Intern
         link: Tylertech.com
         caption: May 2020 - September 2020
         description: |
 
       - layout: left
         border: weak
-        title: Information Technology Intern
-        sub_title: Northeast Bank
+        title: Northeast Bank
+        sub_title: Information Technology Intern
         link: Northeastbank.com
         caption: May 2019 - April 2020
         description: |
 
       - layout: left
         border: weak
-        title: Network Engineering Intern
-        sub_title: The Jackson Laboratory
+        title: The Jackson Laboratory
+        sub_title: Network Engineering Intern
         link: Jax.org
         caption: May 2018 - August 2018
         description: |
