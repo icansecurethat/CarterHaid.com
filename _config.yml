@@ -1,0 +1,117 @@
+# Site
+repository: sproogen/jameswgrant
+favicon: images/favicon.ico
+
+version: 2
+
+# Personal info
+name: Carter Haid
+title: Security Engineer 
+email: carter.c.haid@gmail.com
+
+# Social links
+twitter_username: icansecurethat
+github_username:  icansecurethat
+# dribbble_username:
+# facebook_username:
+# flickr_username:
+# instagram_username:
+linkedin_username: carterhaid
+# pinterest_username:
+# youtube_username:
+
+# About Section
+about_title: About Me
+about_profile_image: images/jg2.jpg
+about_content: |
+  Hi, my name is Carter Haid, I'm an Information Security Engineer currently working for Northeast Bank.
+
+  I enjoy making clean and interactive UI that is quick and easy to use whilst also giving users an enjoyable experience.
+  I like working creating clean and efficient developer experiences to allow developers to focus on code quality and the end user experience.
+  I have experience working with a wide range of tools, technologies, and methodologies across the cybersecurity spectrum, and I'm always eager to learn and adapt to new challenges.
+  
+  The technologies that I have the most experience working with are:
+  
+  <mark>Rapid7 Suite</mark>,
+  <mark>React &amp; Redux</mark>,
+  <mark>Node.js</mark>,
+  <mark>Java</mark>,
+  <mark>MySQL</mark>,
+  <mark>SASS</mark>,
+  <mark>git</mark> and
+  <mark>AWS</mark>.
+
+content:
+  - title: Certifications
+    layout: text
+    content: | # this will include new lines to allow paragraphs
+      Security Certifications: 
+        - CompTIA CYSA+
+        - Cisco CCNA
+
+      Vulnerability Management Certifications:
+        - Rapid7 InsightVM Certified Administrator
+        - Rapid7 InsightIDR Certified Specialist
+
+      Cloud Certifications:
+        - AWS CCP
+        
+  - title: Experience
+    layout: list
+    content:
+      - layout: left
+        border: weak
+        title: Northeast Bank
+        sub_title: Information Security Engineer
+        link: Northeastbank.com
+        caption: August 2024 - Present
+        description: |
+
+      - layout: left
+        border: weak
+        title: Northeast Bank
+        sub_title: Information Security Analyst
+        link: Northeastbank.com
+        caption: July 2022 - August 2024
+        description: |
+
+      - layout: left
+        border: weak
+        title: Tinder
+        sub_title: Security Engineering Intern
+        link: Tinder.com
+        caption: May 2021 - December 2021
+        description: |
+
+      - layout: left
+        border: weak
+        title: Information Security Intern
+        sub_title: Tyler Technologies
+        link: Tylertech.com
+        caption: May 2020 - September 2020
+        description: |
+
+      - layout: left
+        border: weak
+        title: Information Technology Intern
+        sub_title: Northeast Bank
+        link: Northeastbank.com
+        caption: May 2019 - April 2020
+        description: |
+
+      - layout: left
+        border: weak
+        title: Network Engineering Intern
+        sub_title: The Jackson Laboratory
+        link: Jax.org
+        caption: May 2018 - August 2018
+        description: |
+
+# Footer
+footer_show_references: true
+
+# Build settings
+remote_theme: sproogen/resume-theme
+
+# sass:
+#   style: compressed
