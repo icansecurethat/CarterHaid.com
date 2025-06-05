@@ -24,22 +24,23 @@ linkedin_username: carterhaid
 about_title: About Me
 about_profile_image: images/profile.jpg
 about_content: |
-  Hi, my name is Carter Haid, I'm an Information Security Engineer currently working for Northeast Bank.
+  Hi, I'm Carter Haid — Information Security Engineer at Northeast Bank.
 
-  I enjoy making clean and interactive UI that is quick and easy to use whilst also giving users an enjoyable experience.
-  I like working creating clean and efficient developer experiences to allow developers to focus on code quality and the end user experience.
-  I have experience working with a wide range of tools, technologies, and methodologies across the cybersecurity spectrum, and I'm always eager to learn and adapt to new challenges.
-  
-  The technologies that I have the most experience working with are:
+  I specialize in building secure, high-performance systems that align with business goals and compliance standards. With a strong foundation in cybersecurity and hands-on experience across identity, infrastructure, and vulnerability management, I bring a practical, security-first mindset to every project.
+  I thrive in dynamic environments and enjoy tackling complex challenges that demand both technical depth and strategic thinking.
+
+  Core technologies and tools I work with:
   
   <mark>Rapid7 Suite</mark>,
-  <mark>React &amp; Redux</mark>,
-  <mark>Node.js</mark>,
-  <mark>Java</mark>,
-  <mark>MySQL</mark>,
-  <mark>SASS</mark>,
-  <mark>git</mark> and
-  <mark>AWS</mark>.
+  <mark>Microsoft Entra ID</mark>,
+  <mark>Python</mark>,
+  <mark>Git &amp; GitHub</mark>,
+  <mark>Fortinet Security Suite</mark>,
+  <mark>Windows/Linux Server</mark>,
+  <mark>Cisco Networking</mark>,
+  <mark>Power Platorm</mark>,
+  <mark>NetBox</mark> and
+
 
 content:
   - title: Certifications
