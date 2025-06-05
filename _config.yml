@@ -20,6 +20,11 @@ linkedin_username: carterhaid
 # pinterest_username:
 # youtube_username:
 
+additional_links:
+- title: Dark link
+  icon: fa-user-hoodie
+  url: https://github.com/icansecurethat
+
 # About Section
 about_title: About Me
 about_profile_image: images/profile.jpg
