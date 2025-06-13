@@ -22,7 +22,7 @@ linkedin_username: carterhaid
 
 additional_links:
 - title: Dark link
-  icon: far fa-user
+  icon: fa-solid fa-terminal
   url: https://github.com/icansecurethat
 
 # About Section
